@@ -10,8 +10,11 @@ System Builder.
 ---
 
 >Direction outlives speed.
+>
 >Structure outlives intention.
+>
 >Consequence outlives convenience.
+>
 >
 >Design accordingly.
 
@@ -23,7 +26,7 @@ Architecture is a business decision.
 
 ---
 
-![Stats](https://github-readme-stats.vercel.app/api?username=HarveyGG&show_icons=true&hide_border=true&hide_title=true)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=HarveyGG&bg_color=ffffff&color=000000&line=000000&point=000000&hide_border=true)
 
 ---
 
