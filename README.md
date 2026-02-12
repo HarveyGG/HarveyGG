@@ -9,17 +9,6 @@ System Builder.
 
 ---
 
->Direction outlives speed.
->
->Structure outlives intention.
->
->Consequence outlives convenience.
->
->
->Design accordingly.
-
----
-
 Code is liability until proven otherwise.
 
 Architecture is a business decision.
