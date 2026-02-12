@@ -1,16 +1,31 @@
-## Hi there 👋
+# Harvey
 
-<!--
-**HarveyGG/HarveyGG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Engineer · System Builder · Long-Term Thinker
 
-Here are some ideas to get you started:
+Two decades of building production systems.  
+Focus: architecture, scalability, and engineering leverage.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Current Direction
+
+- Distributed system design  
+- High-concurrency optimization  
+- AI-augmented engineering workflows  
+- Developer productivity at scale  
+
+---
+
+## Philosophy
+
+>Direction outlives speed.
+>Structure outlives intention.
+>Consequence outlives convenience.
+>
+>Design accordingly.
+
+---
+
+## Metrics
+
+![Stats](https://github-readme-stats.vercel.app/api?HarveyGG)
