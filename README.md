@@ -1,22 +1,13 @@
 # Harvey
 
-Full-Stack Engineer · System Builder · Long-Term Thinker
-
-Two decades of building production systems.  
-Focus: architecture, scalability, and engineering leverage.
+System Builder.
 
 ---
 
-## Current Direction
-
-- Distributed system design  
-- High-concurrency optimization  
-- AI-augmented engineering workflows  
-- Developer productivity at scale  
+> “Simplicity is prerequisite for reliability.”  
+> — Edsger W. Dijkstra
 
 ---
-
-## Philosophy
 
 >Direction outlives speed.
 >Structure outlives intention.
@@ -26,6 +17,14 @@ Focus: architecture, scalability, and engineering leverage.
 
 ---
 
-## Metrics
+Code is liability until proven otherwise.
 
-![Stats](https://github-readme-stats.vercel.app/api?HarveyGG)
+Architecture is a business decision.
+
+---
+
+![Stats](https://github-readme-stats.vercel.app/api?username=HarveyGG&show_icons=true&hide_border=true&hide_title=true)
+
+---
+
+Building things that still make sense years later.
