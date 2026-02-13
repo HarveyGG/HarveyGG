@@ -1,22 +1,40 @@
-# Harvey
+<h1 align="center">Harvey</h1>
 
-> “Simplicity is prerequisite for reliability.”  
-> — Edsger W. Dijkstra
+<p align="center">
+  <em>Simplicity is prerequisite for reliability.</em><br/>
+  — Edsger W. Dijkstra
+</p>
 
----
+<br/>
 
-Code is liability until proven otherwise.
+<p align="center">
+  Code is liability until proven otherwise.<br/>
+  Architecture is a business decision.
+</p>
 
-Architecture is a business decision.
+<br/>
 
----
+<p align="center">
+  <a href="https://www.buymeacoffee.com/harveywang" target="_blank">
+    <img 
+      src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" 
+      alt="Buy Me A Coffee" 
+      height="48"
+    />
+  </a>
+</p>
 
-<a href="https://www.buymeacoffee.com/harveywang" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<br/>
 
----
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=HarveyGG&bg_color=ffffff&color=000000&line=000000&point=000000&hide_border=true" 
+    width="90%" 
+  />
+</p>
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=HarveyGG&bg_color=ffffff&color=000000&line=000000&point=000000&hide_border=true)
+<br/>
 
----
-
-Building things that still make sense years later.
+<p align="center">
+  <sub>Building things that still make sense years later.</sub>
+</p>
